@@ -49,6 +49,14 @@ Luego:
 
 ---
 
+## 🧱 Paso 3: Instalar y seleccionar la versión correcta
+
+1. En **TLauncher**, haz clic en **Instalar**
+2. Asegúrate de que esté seleccionada la versión: Server-MC-Fabric-1.21.1
+3. **Esta misma versión debe estar seleccionada también cuando vayas a entrar al juego**
+
+---
+
 ## 🌍 Paso 3: Entrar al servidor
 
 1. Abre Minecraft

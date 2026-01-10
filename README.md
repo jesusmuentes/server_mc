@@ -57,7 +57,7 @@ Luego:
 
 ---
 
-## 🌍 Paso 3: Entrar al servidor
+## 🌍 Paso 4: Entrar al servidor
 
 1. Abre Minecraft
 2. Ve a **Multijugador**

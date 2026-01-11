@@ -11,7 +11,7 @@ Servidor público de **Minecraft 1.21.1 Fabric + Mods**
 2. Instálalo normalmente.
 3. Abre el launcher y sigue los pasos tal cual como se muestran en las imágenes de abajo.
 
-> 🔹 **Opcional:** Puedes registrarte o iniciar sesión en SKLauncher para usar el **sistema de skins**.
+> 🔹 **Opcional:** Puedes registrarte e iniciar sesión en SKLauncher para usar el **sistema de skins**.
 
 ### 📸 Guía visual
 

@@ -1,6 +1,6 @@
 # SERVER MC
 
-Servidor público de **Minecraft 26.1 Fabric + Mods**
+Servidor público de **Minecraft 26.2 Fabric + Mods**
 
 ---
 
@@ -36,7 +36,7 @@ El script descargará y colocará **todos los mods automáticamente** en tu carp
 
 ## 🧱 Paso 3: Seleccionar la versión y jugar
 
-1. En **SKLauncher**, selecciona la versión que creamos arriba: **GGZone-26.1.2**
+1. En **SKLauncher**, selecciona la versión que creamos arriba: **GGZone-26.2**
 2. Haz clic en **Jugar**
 
 ---
@@ -53,9 +53,9 @@ El script descargará y colocará **todos los mods automáticamente** en tu carp
 
 Si tienes problemas, revisa que los datos se hayan configurado **exactamente** como se muestran en las imágenes:
 
-- **GGZone-26.1.2** escrito de forma exacta
+- **GGZone-26.2** escrito de forma exacta
 - **Fabric** seleccionado correctamente
-- **Versión 26.1.2** configurada
+- **Versión 26.2** configurada
 - **Casilla del directorio del juego** marcada  
   - El directorio debe marcarse **después** de haber colocado el nombre
 
